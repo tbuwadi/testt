@@ -1,7 +1,7 @@
-# Title
+# CS Lecture 1
 CS Lecture 1
 
-Program to add two numbers:
+## Program to add two numbers
 ```python
 # This program adds two numbers
 
@@ -16,3 +16,7 @@ print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
 
 ```
 
+## Output
+```python
+The sum of 1.5 and 6.3 is 7.8
+```
